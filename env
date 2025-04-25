@@ -1,0 +1,5 @@
+OPENAI_API_KEY=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
+CALENDAR_ID=seu-id-do-google-calendar
+GOOGLE_PROJECT_ID=seu-id-do-projeto-google
+GOOGLE_CLIENT_EMAIL=seu-email-do-serviço@projeto.iam.gserviceaccount.com
+GOOGLE_PRIVATE_KEY="sua-chave-privada-com-\\n-no-lugar-de-quebra-de-linha"
